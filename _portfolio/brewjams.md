@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Brew Jams
-feature-img: "img/coffee_music_background.jpg"
-thumbnail-path: "http://brewjams.bitballoon.com/album.html"
 short-description: Brew Jams is a Spotify replica for streaming music online.
-
+thumbnail-path: "assets/images/brew_jams_logo.jpg"
 ---
+
 {:.center}
-![]({{ site.base_url }}/img/coffee_music_background.jpg )
+![]({{ site.baseurl }}/assets/images/coffee_music_background.jpg)
 
 ## Explanation
 
